@@ -12,4 +12,5 @@ I'm a backend, frontend and mobile developer.
 -  👨 - I have experience with the following framework: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot!
 -  👨 - I use the following databases: Firebase, Mysql, Sql Postree and Aws
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
