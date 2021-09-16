@@ -13,7 +13,7 @@ Sou um desenvolvedor  backend, frontend e mobile.
 
 -  👨🏼‍🏫 - Estou desenvolvendo atualmente com: Python, Kotlin, TypeScript, JavaScript, Java, PHP,
 -  👨 - Possuo experiencia com os seguintes frameworks: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot!
--  👨 - Ultilizo os seguintes banco de dados: Firebase, Mysql, Sql Postree and Aws <br><br>
+-  👨 - Ultilizo os seguintes banco de dados: Firebase, Mysql, Sql Postree and Aws <br>
 
 ![Snake animation](https://github.com/renanxd25/renanxd25/blob/output/github-contribution-grid-snake.svg)
   
