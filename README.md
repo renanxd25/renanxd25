@@ -6,7 +6,7 @@
 
 
 ### About me
-I'm a {backend, frontend and mobile} developer.
+I'm a backend, frontend and mobile developer.
 
 -  👨🏼‍🏫 - I'm a developer Python, Kotlin, TypeScript, JavaScript, Java, PHP,
 -  👨 - I have experience with the following framework: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot!
