@@ -1,7 +1,7 @@
 
 # Olá, Sou Renan Mendes! :D
 
-![Snake animation](https://github.com/renanxd25/renanxd25/blob/output/github-contribution-grid-snake.svg)
+
  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanxd25)](https://github.com/renanxd25)
@@ -14,6 +14,8 @@ Sou um desenvolvedor  backend, frontend e mobile.
 -  👨🏼‍🏫 - Estou desenvolvendo atualmente com: Python, Kotlin, TypeScript, JavaScript, Java, PHP,
 -  👨 - Possuo experiencia com os seguintes frameworks: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot!
 -  👨 - Ultilizo os seguintes banco de dados: Firebase, Mysql, Sql Postree and Aws <br><br>
+
+![Snake animation](https://github.com/renanxd25/renanxd25/blob/output/github-contribution-grid-snake.svg)
   
  ### 👩‍💻 Linguagens 🔝
 ![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
