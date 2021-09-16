@@ -1,18 +1,18 @@
 
-# Hi, I'm Renan Mendes! :D
+# Olá, Sou Renan Mendes! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanxd25)](https://github.com/renanxd25)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/renan-mendes-b2a216198/)
 
 
 ### About me
-I'm a backend, frontend and mobile developer.
+Sou um desenvolvedor  backend, frontend e mobile.
 
--  👨🏼‍🏫 - I'm a developer Python, Kotlin, TypeScript, JavaScript, Java, PHP,
--  👨 - I have experience with the following framework: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot!
--  👨 - I use the following databases: Firebase, Mysql, Sql Postree and Aws <br><br>
+-  👨🏼‍🏫 - Estou desenvolvendo atualmente com: Python, Kotlin, TypeScript, JavaScript, Java, PHP,
+-  👨 - Possuo experiencia com os seguintes frameworks: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot!
+-  👨 - Ultilizo os seguintes banco de dados: Firebase, Mysql, Sql Postree and Aws <br><br>
   
- ### 👩‍💻 Languages 🔝
+ ### 👩‍💻 Linguagens 🔝
 ![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Github Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
