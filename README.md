@@ -1,6 +1,9 @@
 
 # Olá, Sou Renan Mendes! :D
 
+![Snake animation](https://github.com/renanxd25/renanxd25/blob/output/github-contribution-grid-snake.svg)
+ 
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanxd25)](https://github.com/renanxd25)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/renan-mendes-b2a216198/)
 
