@@ -44,7 +44,7 @@ Sou um desenvolvedor  backend, frontend e mobile.
 ![Github Badge](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanxd25&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanxd25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanxd25&show_icons=true)
 
 
 
