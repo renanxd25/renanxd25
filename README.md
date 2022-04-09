@@ -9,7 +9,7 @@
 
 
 ### About me
-Sou um desenvolvedor  backend, frontend e mobile.
+Sou um desenvolvedor  Backend e Frontend.
 
 -  👨🏼‍🏫 - Estou desenvolvendo atualmente com: Python, Kotlin, TypeScript, JavaScript, Java, PHP.
 -  👨 - Possuo experiencia com os seguintes frameworks: Angular, Ionic, React-native, React.js, Django, Android Studio and Spring Boot.
